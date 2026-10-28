@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *your name here*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I like animals, I love to play video games and sleeping as well. I love watermelon. I am currently attending UTSA and my major is CyberSecurity.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
